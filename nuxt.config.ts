@@ -4,6 +4,7 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   content: {
     preview: {
+      dev: true,
       api: 'https://api.nuxt.studio'
     }
   },
