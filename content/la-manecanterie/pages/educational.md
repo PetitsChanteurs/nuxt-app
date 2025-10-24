@@ -1,6 +1,7 @@
 ---
 section: "Le manécanterie"
 title: "Projet éducatif"
+accueil: "Un projet éducatif unique en France, s’étendant de la classe de CM1 jusqu’à la Terminale, et visant à offrir une continuité pédagogique inédite ainsi qu’une cohérence éducative exemplaire pour tous les élèves."
 ---
 
 La Manécanterie des&nbsp;Petits Chanteurs à la Croix de Bois dispense aux garçons du CM1 à la Terminale&nbsp;une <strong>formation intégrale</strong>&nbsp;comprenant :
