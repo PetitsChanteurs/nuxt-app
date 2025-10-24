@@ -1,0 +1,44 @@
+section: La manécanterie
+title: Formation artistique
+breadcrumb:
+  - title: "Internat"
+    href: "/la-manecanterie/internat"
+  - title: "Mission"
+    href: "/la-manecanterie/mission"
+items:
+  - type: feature_figures
+    text: Depuis plus de 100 ans, la Manécanterie des Petits Chanteurs à la Croix de Bois est renommée pour sa formation artistique.
+    items:
+      - section: 3 cycles →
+        id: objectif
+        title: 10 heures
+        text: de musique par semaine
+      - section: Formation Musicale →
+        id: formation-musicale
+        title: 5 professeurs
+        text: de musique et chant
+      - section: Technique vocale →
+        id: technique-vocale
+        title: 4 voix
+        text: De soprane à basse
+      - section: Objectif →
+        id: objectif
+        title: Objectif
+        text: en fonction du niveau
+
+  - type: feature_content
+    text:
+      - "<p><strong>Depuis plus de 100 ans, la Manécanterie des Petits Chanteurs à la Croix de Bois est renommée pour sa formation artistique</strong>.&nbsp;Chaque année, la Manécanterie accueille des enfants âgés de 8 à 18 ans et de tous horizons,&nbsp;<strong>certains n’ayant bénéficié d’aucun enseignement musical antérieur</strong>.&nbsp;</p>"
+      - "<p>Lors de nos auditions, nous recherchons avant tout des élèves profondément motivés, animés d’une voix dont on demande seulement qu’elle soit juste et ayant une bonne capacité de mémorisation.</p>"
+      - "<p>La formation artistique vise à développer chez les enfants un plaisir du chant choral et une connaissance approfondie de la musique.</p>"
+      - "<p id='3-cycles'>Dès les premiers jours de leur arrivée, les garçons intègrent l’un des&nbsp;trois cycles&nbsp;qui composent la colonne vertébrale de notre formation ; chaque cycle correspond à un niveau de compétences, tant musical que d’un point de vue éducatif, à des projets et à un public cible. </p>"
+      - "<p>Régulièrement, le Petit Chanteur est invité à être auditionné une deuxième et troisième fois pour éventuellement rejoindre un cycle supérieur.</p>"
+      - "<p id='formation-musicale'>Tous les élèves reçoivent une formation de base incluant&nbsp;<strong>formation musicale, technique vocale et chant choral</strong>. Il n’est donc pas nécessaire que l’enfant ait suivi des cours de solfège ou de musique pour intégrer les Petits Chanteurs. </p>"
+      - "<p id='technique-vocale'>Des courts de <strong>technique vocale</strong> <strong>individuels</strong> accompagnent également les garçons et leur permettent d’acquérir au fur et à mesure des semaines de aptitudes à devenir soliste un jour.</p>"
+      - "<p id='objectif'>A la fin de leurs cursus, nos garçons disposent de belles qualités musicales et humaines : ils savent lire la musique et sont parfaitement en mesure d’animer des répétitions auprès de tiers. </p>"
+      - "<p>De plus, les <strong>nombreux voyages</strong> sont l’occasion d’une ouverture constante à de nouvelles rencontres, à d’autres modes de vie. Le Petit Chanteur développe ainsi ses facultés d’adaptation, d’organisation et d’attention à l’autre ; autant d’atouts pour sa vie future : il acquiert une autonomie désormais fondée tant sur la rigueur que sur l’ouverture d’esprit et de&nbsp;cœur.</p>"
+
+  - type: feature_buttons
+    items:
+      - title: La mission
+        href: /la-manecanterie/mission

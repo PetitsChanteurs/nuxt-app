@@ -7,5 +7,10 @@ export default defineNuxtConfig({
       api: 'https://api.nuxt.studio'
     }
   },
-  modules: ['@nuxt/content', '@nuxt/fonts', '@nuxt/image']
+  modules: [
+    '@nuxt/content',
+    '@nuxt/fonts',
+    '@nuxt/image',
+    '@nuxtjs/tailwindcss'
+  ]
 })

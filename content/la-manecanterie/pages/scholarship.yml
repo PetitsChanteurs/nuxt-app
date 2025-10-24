@@ -1,0 +1,56 @@
+section: La manécanterie
+title: Scolarité
+breadcrumb:
+  - title: "Projet éducatif"
+    href: "/la-manecanterie/projet-educatif"
+  - title: "Internat"
+    href: "/la-manecanterie/internat"
+items:
+  - type: feature_figures
+    text: Au coeur de l’institution Saint-Lazare Saint-Sacrement à Autun, les Petits Chanteurs à la Croix de Bois suivent une scolarité de collégien normale et équilibrée.
+    items:
+      - section: L’institution →
+        id: institution
+        title: 4 classes
+        text: dédiées pour le collège
+      - section: La formation scolaire →
+        id: formation
+        title: 20 heures
+        text: de cours en moyenne
+      - section: La semaine →
+        id: semaine
+        title: 9 niveaux
+        text: de CM1 à Terminale
+      - section: L’équipe pédagogique →
+        id: equipe
+        title: 100%
+        text: de réussite au brevet
+  - type: feature_content
+    text:
+      - "<p id='institution'>Les Petits Chanteurs sont accueillis pour leur scolarité au sein de &nbsp;<strong>l’institution St Lazare – St Sacrement</strong> en ce qui concerne le Primaire et le Collège, et au sein du Lycée Bonaparte en ce qui concerne le Lycée, situés à Autun&nbsp;en Bourgogne. L’institution St Lazare – St Sacrement, établissement catholique en contrat d’association avec l’État, a mis en place des <strong>emplois du temps spécialement adaptés</strong> aux Petits Chanteurs.</p>"
+      - "<p>Ils y suivent une&nbsp;<strong>scolarité</strong>&nbsp;conforme aux programmes officiels de l’Éducation Nationale.</p>"
+      - "<p>La formation musicale est planifiée au même titre que les autres matières et se pratique dans des salles de répétitions dédiées au sein de cette même institution.</p>"
+      - "<p>Notre priorité : concilier efficacement scolarité et pratique artistique.</p>"
+      - "<h2 id='formation'>Formation scolaire</h2>"
+      - "<p>Notre modèle pédagogique nourri de bienveillance et d’exigence est fondé sur un accompagnement individualisé et constant pour le bon déroulement de l’année scolaire de chaque Petit Chanteur.</p>"
+      - "<p>Chaque semaine, les enfants suivent des cours de&nbsp;«&nbsp;<strong>Savoir Vivre&nbsp;</strong>»&nbsp;dans lequel il est enseigné tous les éléments essentiels pour aider nos jeunes à devenir des hommes responsables. Les sujets abordés sont très variés en fonction de l’âge des jeunes et des besoins : bienséance à table ; organisation et le rangement de sa chambre ; recoudre un vêtement ; comment réagir en cas d’imprévu de transport ; culture générale… Ces cours sont un élément essentiel de notre formation. </p>"
+      - "<p><em>Nos objectifs :</em></p>"
+      - "<ul>"
+      - "<li><em>BIEN GÉRER&nbsp;le temps pour obtenir les meilleures performances artistiques et scolaires.</em></li>"
+      - "<li><em>SUIVRE&nbsp;rigoureusement les programmes de l’Éducation Nationale et préparer les diplômes d’État.</em></li>"
+      - "<li><em>VALORISER&nbsp;les efforts, les progressions, les compétences et le travail.</em></li>"
+      - "<li><em>TRANSMETTRE&nbsp;les méthodes de travail avec un encadrement régulier et personnalisé.</em></li>"
+      - "<li><em>ACCOMPAGNER&nbsp;chaque jeune pour qu’il développe son sens des responsabilités et son autonomie.</em></li>"
+      - "<li><em>CRÉER&nbsp;un espace de concertation et de coordination entre le jeune, sa famille, l’équipe enseignante et l’équipe artistique.</em></li>"
+      - "</ul>"
+      - "<h2 id='semaine'>Organisation de la semaine</h2>"
+      - "<p>L’emploi du temps scolaire est aménagé afin que les élèves puissent mener une double compétence dans leur cursus : scolarité et pratique artistique.</p>"
+      - "<p>Les cours se déroulent du lundi au vendredi. Le temps scolaire est de 18h à 22 heures hebdomadaire&nbsp;(le volume horaire est fonction de la classe) sur 35 semaines de septembre à juin.</p>"
+      - "<h2 id='equipe'>Une équipe pédagogique</h2>"
+      - "<p>Elle est composée d’une direction pédagogique garante du suivi des programmes de l’Éducation Nationale, d’un responsable scolaire privilégié pour chaque élève et d’enseignants qualifiés dans leur matière.</p>"
+      - "<p>L’équipe pédagogique assure la qualité de l’enseignement, la formation aux méthodes de travail et permet un suivi régulier et individualisé de chaque élève.</p>"
+
+  - type: feature_buttons
+    items:
+      - title: L’internat
+        href: /la-manecanterie/internat/

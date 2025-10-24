@@ -1,0 +1,42 @@
+section: Le chœur
+title: Pueri Cantores
+meta:
+  id: pueri-cantores
+  title: Pueri Cantores
+items:
+  - type: feature_photos
+    title: Une oeuvre initiée par les Petits Chanteurs à la Croix de Bois
+    subtitle: En mission depuis 1924
+    text: '<p>En 1907, les "Petits Chanteurs à la Croix de Bois" de Paris furent l’un de ces nouveaux en lien avec le “Motu proprio” de 1903. Ce document du Pape Pie X encourageait la création de manécanteries. L’objectif n’était pas simplement de promouvoir le chant liturgique mais aussi de donner une éducation musicale et religieuse.</p><p>En 1924 l’abbé Fernand Maillet a pris la direction des “Petits Chanteurs”. En accord avec les souhaits du Pape, il est allé plus loin, voulant répandre à travers le monde cette idée d’enfants chanteurs afin de contribuer à établir un langage international par le chant. Par la suite, les Petits Chanteurs à la Croix de Bois ont voyagé dans de nombreux pays. Grâce à leurs concerts, ils ont encouragé la création de nouvelles formations de chœurs de garçons dans le monde.</p>'
+    images:
+      - "histoire_champs_elysees.jpg"
+      - "histoire_pompidou.jpg"
+      - "histoire_audition.jpg"
+      - "histoire_avion.jpg"
+      - "histoire_paris.jpg"
+  - type: feature_timeline
+    title: Les grandes dates
+    events:
+      - date: 1903
+        title: Le Motu Proprio
+        text: "Le 22 novembre 1903, le Pape Pie X publie le Motu Proprio « Tra le sollecitudini » qui encourage la création de manécanteries dans les paroisses et les écoles. L’objectif n’est pas simplement de promouvoir le chant liturgique mais aussi de donner une éducation musicale et religieuse."
+      - date: Eté 1907
+        title: Les Petits Chanteurs à la Croix de Bois
+        text: "C’est à l’Abbaye de Tamié en Savoie que tout a commencé. Deux étudiants en retraite, Pierre Martin et Paul Berthier, décident de créer une maîtrise de garçons qui ira dans les églises françaises faire redécouvrir les merveilles de la musique sacrée. Ils recrutent une poignée d’enfants de milieux populaires : Les Petits Chanteurs à la Croix de Bois sont nés."
+      - date: 1924
+        title: Les Pueri Cantores
+        text: "En 1924 l’abbé Fernand Maillet a pris la direction des “Petits Chanteurs”. En accord avec les souhaits du Pape, il est allé plus loin, voulant répandre à travers le monde cette idée d’enfants chanteurs afin de contribuer à établir un langage international par le chant. Par la suite, les Petits Chanteurs à la Croix de Bois ont voyagé dans de nombreux pays. Grâce à leurs concerts, ils ont encouragé la création de nouvelles formations de chœurs de garçons dans le monde."
+  - type: feature_carousel
+    title: Une tournée en Corée du Sud
+    images:
+      - photo_1.jpg
+      - photo_2.jpg
+      - photo_3.jpg
+      - photo_1.jpg
+      - photo_2.jpg
+      - photo_3.jpg
+      - photo_1.jpg
+      - photo_2.jpg
+      - photo_3.jpg
+  - type: feature_text
+    text: '<p>La Seconde guerre mondiale a confirmé la vision et l’objectif de l’Abbé Maillet de créer une fédération internationale de choeurs de garçons. Il était convaincu que les chants et prières de paix de tous ces enfants contribueraient à la paix dans le monde.</p><p>Tous les enfants du monde chanteront la Paix de Dieu“ était la vision qu’il avait pour construire un monde nouveau. Le 2 Juillet 1944, quelques choeurs français se retrouvent pour la première fois à Paris pour une messe dirigée par l’abbé Maillet. Avant la fin de la 2e guerre mondiale, la formation d’un mouvement international était établie. Par la suite, des chœurs venant d’autres pays ont adhéré avec enthousiasme à cette idée. En 1947, le premier congrès international des Pueri Cantores voit le jour à Paris. 90 choeurs issus de quelques pays étaient présents. Le badge de reconnaissance était une petite croix de bois portée autour du cou.</p><p>Après le 2e congrès international à Rome en 1949, avec la messe célébrée en la Basilique St Pierre par le Pape Pie XII, les dirigeants de plusieurs pays ont décidé le 24 avril 1950 de fonder officielle-ment une fédération internationale de Pueri Cantores avec l’abbé Maillet comme président.</p><p>Depuis, environ tous les deux ans, des milliers de Pueri Cantores se rencontrent à l’occasion d’un grand congrès. Le dernier (37e congrès international de la FIPC) a été organisé à Granada en juillet 2012</p><p>St. Dominique Savio a été declaré Saint Patron de la Fédération internationale des Pueri Cantores par le Pape Pie XII le 8 juin 1956.</p><p>Le support le plus important du service des Pueri Cantores fut la constitution de la liturgie "Sacrosanctum Concilium", éditée par le Concile Vatican II. Dans le SC 112, chanter est considéré comme partie intégrante et nécessaire à la liturgie. Dans le SC 114, les chœurs sont encouragés avec insistance. Ces documents du Concile entrainèrent la fondation de chœurs de filles et de chœurs mixtes d’enfants et de jeunes, qui furent acceptés dans la Fédération.</p><p>De nombreux Papes, notamment Paul VI, Jean-Paul II et Benoît XVI ont régulièrement remercié les Pueri Cantores pour le service qu’ils rendent à l’Eglise et ils les ont encouragés pour leur engagement.</p><p>Aujourd’hui, la Fédération des Pueri Cantores est composée de choeurs de garçons, de filles et de chœurs mixtes, chacun engagés dans les différentes formes de chant liturgique. La Fédération est présente de façon active dans 35 pays, sur tous les continents, ce qui représente environ 40 000 jeunes et enfants.</p>'

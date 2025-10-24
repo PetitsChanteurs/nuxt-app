@@ -1,0 +1,49 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@import "preline/variants.css";
+@source "../../node_modules/preline/dist/*.js";
+
+@plugin "@tailwindcss/forms";
+
+@import "../fonts/stylesheet.css";
+
+body {
+    font-family: 'ITC Novarese Std', serif;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Cinzel Decorative', Arial, sans-serif !important;
+}
+.text-cinzel,
+.font-cinzel-decorative {
+    font-family: 'Cinzel Decorative', Arial, sans-serif !important;
+}
+.article {
+    color: rgb(90, 90, 90);
+    font-family: 'ITC Novarese Std', serif;
+}
+.article p {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.article li {
+    margin-left: 20px;
+    list-style-type: disc;
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+.article strong {
+    font-weight: 900;
+    color: #0a4b83 !important;
+}
+
+.article h2 {
+    font-family: 'Cinzel Decorative', Arial, sans-serif !important;
+    color: #c84136 !important;
+    font-weight: 500 !important;
+    font-size: 20px !important;
+    margin-bottom: 5px;
+}

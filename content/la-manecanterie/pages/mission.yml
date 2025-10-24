@@ -1,0 +1,55 @@
+section: La manécanterie
+title: Mission
+breadcrumb:
+  - title: "Formation artistique"
+    href: "/la-manecanterie/formation-artistique"
+  - title: "Formation spirituelle"
+    href: "/la-manecanterie/formation-spirituelle"
+items:
+  - type: feature_figures
+    text: Adaptés à chaque en fonction de son cycles et de ses aptitudes les missions sont les moments forts de la vie de Petit Chanteur à la Croix de Bois.
+    items:
+      - section: Chacun sa mission →
+        id: chacun-sa-mission
+        title: 10 tournées
+        text: chaque année
+      - section: Productions artistiques →
+        id: production-artistique
+        title: 2 tournées
+        text: internationales
+      - section: En France →
+        id: france
+        title: 40 albums
+        text: produits depuis 1907
+      - section: Dans le monde →
+        id:
+        title: 10 millions
+        text: de vues sur YouTube
+
+  - type: feature_content
+    text:
+      - "<p id='chacun-sa-mission'>Les missions ont lieu tout à long de l’année. Il y a différent types de missions : Les missions de production artistique, les mission en france et les missions dans le monde. </p>"
+      - "<p><strong>Dans l’année, chaque Petit Chanteur&nbsp;:</strong></p>"
+      - "<ul>"
+      - "<li>Participe à des tournées en France </li>"
+      - "<li>Participe à des tournées l’étranger (à partir de la&nbsp;5<sup>ème</sup>)</li>"
+      - "<li>Participe aux enregistrements d’albums</li>"
+      - "<li>Participe aux émissions télévisuelles et radio</li>"
+      - "</ul>"
+      - "<h2 id='production-artistique'>Les missions de production artistique</h2>"
+      - "<p>Concerts, animations liturgiques, enregistrements, plateaux TV…</p>"
+      - "<p>La vie de notre «&nbsp;maîtrise ambulante&nbsp;» est riche !</p>"
+      - "<p>Les productions artistiques sont non seulement un moyen d’accomplir notre mission&nbsp;<strong>d’Ambassadeurs de la Paix</strong>&nbsp;mais également une occasion formidable de grandir humainement, artistiquement et spirituellement.</p>"
+      - "<h2 id='france'>Les missions en France et dans le monde</h2>"
+      - "<p>Durant leur scolarité, les Petits Chanteurs à la Croix de Bois sont appelés à voyager tant en France qu’à l’étranger. Les tournées les conduisent dans&nbsp;<strong>toutes les parties du monde pour chanter, découvrir et rencontrer</strong>.&nbsp;</p>"
+      - "<p>Ces nombreux voyages constituent un élément pédagogique important de la Manécanterie. Ils sont l’occasion d’une ouverture permanente sur des modes de vie différents et développent chez le Petit Chanteur des facultés d’adaptation, d’organisation et d’entraide. Ainsi le Petit Chanteur acquiert une certaine autonomie, une ouverture d’esprit et une rigueur qui sont autant d’atouts pour sa vie future.</p>"
+      - "<p>Toutes les activités (voyages, enregistrements etc.) sont entièrement prises en charge par l’Association.</p>"
+
+  - type: feature_buttons
+    items:
+      - title: Discographie
+        href: /le-choeur/discographie
+      - title: Extraits
+        href: /le-choeur/extraits/
+      - title: Chaine YouTube
+        href: https://www.youtube.com/@lespetitschanteursalacroix902

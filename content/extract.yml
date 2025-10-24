@@ -1,0 +1,50 @@
+section: Le chœur
+title: Extraits
+breadcrumb:
+  - title: "Notre histoire"
+    href: "/le-choeur/notre-histoire"
+  - title: "Discographie"
+    href: "/le-choeur/discographie"
+sections:
+  - title: Tournée Mission - 2024 🙏
+    links:
+      - title: Gloria ! - Antonio Vivaldi
+        date: 24 novembre 2023
+        context: "Enregistré à la Catéhdrale d'Autun dans le cadre d'un concert exceptionnel de la tournée Mission"
+        href: https://www.youtube.com/embed/PC54T_VG9Sw?si=MiXYr7r08jgPG6vv
+      - title: Regardez l'humilité de Dieu - Anne-Sophie Rahm
+        date: 24 novembre 2023
+        context: "Enregistré à la Catéhdrale d'Autun dans le cadre d'un concert exceptionnel de la tournée Mission"
+        href: https://www.youtube.com/embed/f2c5bsEVyv8?si=BZmTj3WCag8vHfmo
+      - title: Resurrexit ! - Tanguy Dionis du Séjour
+        date: 24 novembre 2023
+        context: "Enregistré à la Catéhdrale d'Autun dans le cadre d'un concert exceptionnel de la tournée Mission"
+        href: https://www.youtube.com/embed/_T4MDh6fzPo?si=6M9i152ZGFdUkbYH
+  - title: Tournée en Corée du Sud 🇰🇷
+    links:
+      - title: Le duo des chat
+        date: Décembre 2022
+        context: "Enregistré au Séoul Art Center dans le cadre de la tournée en Corée du Sud 2022"
+        href: https://www.youtube.com/embed/zxOClYhtlq0?si=l_R0yMrSA13qHnZM
+      - title: We need our love
+        date: Décembre 2018
+        context: "Enregistré au Séoul Art Center dans le cadre de la tournée en Corée du Sud 2018"
+        href: https://www.youtube.com/embed/cG1LL_NCYcw?si=8uthH_POGKrEFU7l
+      - title: Arirang
+        date: Décembre 2022
+        context: "Enregistré au Séoul Art Center dans le cadre de la tournée en Corée du Sud 2022"
+        href: https://www.youtube.com/embed/Z1aC83az3Is?si=2CYOImwAJGioYfHU
+  - title: Nos derniers clips 🎥
+    links:
+      - title: Regardez l'humilité de Dieu - Lourdes
+        date: Octobre 2022
+        context: "Ce clip a été tournée à Lourdes à l'occasion de la sortie de l'album \"Sors de la Nuit\" sur lequel figure ce chant interprété par les Petits Chanteurs à la Croix de Bois"
+        href: https://www.youtube.com/embed/RvWd4XLHCa4?si=qk77eD5ZfMdMLbib
+      - title: Encore un soir
+        date: Juin 2019
+        context: "Ce clip a été tournée à l'occasion de la sortie de l'album \"Comme un chant d'Espérance\", le dernier album studio des Petits Chanteurs à la Croix de Bois"
+        href: https://www.youtube.com/embed/NFNp2tOhhko?si=Lfd_Tc9zS5qc5sYI
+      - title: Douce nuit
+        date: Décembre 2021
+        context: "Ce clip a été tournée à l'occasion d'un passage dans la paroisse d'Elven (56) que nous remercions à nouveau pour leur accueil."
+        href: https://www.youtube.com/embed/85W2ggQcb2E?si=pDl6rEgHKpXrFooS

@@ -1,0 +1,45 @@
+section: Le manécanterie
+title: Projet éducatif
+items:
+  - type: feature_figures
+    text: Un projet éducatif unique en France, s’étendant de la classe de CM1 jusqu’à la Terminale, et visant à offrir une continuité pédagogique inédite ainsi qu’une cohérence éducative exemplaire pour tous les élèves.
+    items:
+      - section: Une formule intégrale →
+        id: formule-integrale
+        title: 8 heures
+        text: de musique par semaine
+      - section: Un savoir être →
+        id: savoir-etre
+        title: 34 semaines
+        text: de cours à l’institution
+      - section: Un savoir-faire →
+        id: savoir-faire
+        title: 45 jours
+        text: en tournée par an
+      - section: Une aventure familiale→
+        id: aventure-familiale
+        title: 1 objectif
+        text: Être Missionnaire
+  - type: feature_content
+    text:
+      - "<p id='formule-integrale'>La Manécanterie des&nbsp;Petits Chanteurs à la Croix de Bois dispense aux garçons du CM1 à la Terminale&nbsp;une <strong>formation intégrale</strong>&nbsp;comprenant :</p>"
+      - "<ul>"
+      - "<li>Un <strong>cursus scolaire complet</strong>&nbsp;(établissement privé catholique sous contrat), en classes dédiées pour le collège.&nbsp;</li>"
+      - "<li>Une <strong>formation vocale et musicale</strong> de niveau professionnel, qui doit permettre aux garçons de participer à tout type de prestations. Cet apprentissage est assuré par des professeurs de chant, de formation musicale, et chefs de chœurs spécialisés dans la pédagogie des chœurs d’enfants.</li>"
+      - "<li>Une<strong> formation humaine et spirituelle&nbsp;</strong>visant l’acquisition de l’autonomie et de la responsabilité, l’ouverture au monde et l’approfondissement de la foi.</li>"
+      - "</ul>"
+      - "<p>L’emploi du temps scolaire est <strong>aménagé</strong> afin que les élèves puissent mener de front scolarité et pratique artistique. Le temps scolaire est réparti en fonction des classes sur 34 semaines de septembre à juin. Les cours se déroulent du <strong>lundi au vendredi</strong>.</p>"
+      - "<h2 id='savoir-etre'>Petit Chanteur : un savoir être</h2>"
+      - "<p>Vivre en Petit Chanteur à la Croix de Bois&nbsp;c’est d’abord apprendre à affermir sa <strong>foi en Dieu</strong> pour tisser jour après jour avec Lui, une relation personnelle.&nbsp;Porter la Croix de Bois revêt en effet un sens bien particulier : le Petit Chanteur <strong>témoigne de l’Evangile</strong> et diffuse dans le monde son message de paix.&nbsp;</p>"
+      - "<h2 id='savoir-faire'>Petit Chanteur : un savoir-faire</h2>"
+      - "<p>Le chant est planifié au même titre que les autres matières et des leçons d’instruments de musique sont également proposées en partenariat avec le Conservatoire d’Autun.</p>"
+      - "<p><strong>Quatre à douze heures hebdomadaires</strong> – en fonction des classes – sont consacrées au chant, réparties entre technique vocale, chant choral « tutti » ou par pupitre, et solfège.&nbsp;Pour intégrer la Manécanterie, il n’est pas nécessaire d’avoir pris des cours de chant ou d’avoir un niveau minimum de solfège. En revanche, il est primordial que les candidats aient à la fois <strong>une bonne oreille</strong> et une <strong>bonne capacité de mémorisation</strong>. Les garçons évolueront au fil des années et de l’évolution de leur voix dans les différents pupitres.</p>"
+      - "<h2 id='aventure-familiale'>Un engagement de toute la famille</h2>"
+      - "<p>Un de vos garçons entre chez les Petits Chanteurs à la Croix de Bois, et c’est<strong> toute la famille qui vit l’aventure</strong> ! L’investissement des parents aux côtés de l’équipe éducative dans le suivi du cursus de leur enfant est <strong>primordial</strong>.</p>"
+
+  - type: feature_buttons
+    items:
+      - title: La scolarité
+        href: /la-manecanterie/scolarite/
+      - title: Comment devenir Petit Chanteur
+        href: /la-manecanterie/admission-devenir-pccb
