@@ -83,6 +83,7 @@ export default defineContentConfig({
       source: 'la-manecanterie/pages/*.yml',
       schema: z.object({
         title: z.string(),
+        content: z.string().optional(),
         items: z.array(z.object({
           title: z.string(),
           subtitle: z.string().optional(),
