@@ -9,6 +9,20 @@ chiffres:
     text: "de musique par semaine"
 ---
 
+::hero
+My Page Title
+
+#description
+This will be rendered inside the `description` slot.
+::
+
+::hero
+My Page Title 2
+
+#description
+This will be rendered inside the `deééééscription` slot.
+::
+
 La Manécanterie des&nbsp;Petits Chanteurs à la Croix de Bois dispense aux garçons du CM1 à la Terminale&nbsp;une <strong>formation intégrale</strong>&nbsp;comprenant :
 
 - Un <strong>cursus scolaire complet</strong>&nbsp;(établissement privé catholique sous contrat), en classes dédiées pour le collège.&nbsp;
