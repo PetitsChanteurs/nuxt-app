@@ -85,6 +85,15 @@ export default defineContentConfig({
         section: z.string(),
         title: z.string(),
         accueil: z.string(),
+        chiffres: z.array(z.object({
+          section: z.string(),
+          title: z.string().optional(),
+          text: z.string().optional()
+        })),
+        buttons: z.array(z.object({
+          title: z.string(),
+          href: z.string()
+        }))
       })
     }),
     content: defineCollection({

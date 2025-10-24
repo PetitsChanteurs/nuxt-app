@@ -2,6 +2,28 @@
 section: "Le manécanterie"
 title: "Projet éducatif"
 accueil: "Un projet éducatif unique en France, s’étendant de la classe de CM1 jusqu’à la Terminale, et visant à offrir une continuité pédagogique inédite ainsi qu’une cohérence éducative exemplaire pour tous les élèves."
+chiffres:
+  - section: "Une formule intégrale →"
+    id: "formule-integrale"
+    title: "8 heures"
+    text: "de musique par semaine"
+  - section: "Un savoir être →"
+    id: "savoir-etre"
+    title: "34 semaines"
+    text: "de cours à l’institution"
+  - section: "Un savoir-faire →"
+    id: "savoir-vivre"
+    title: "45 jours"
+    text: "en tournée par an"
+  - section: "Une aventure familiale →"
+    id: "aventure-familiale"
+    title: "aventure familiale"
+    text: "Être Missionnaire
+buttons:
+  - title: "La scolarité"
+    href: "/la-manecanterie/scolarite/""
+  - title: "Comment devenir Petit Chanteur"
+    href: "/la-manecanterie/admission-devenir-pccb"
 ---
 
 La Manécanterie des&nbsp;Petits Chanteurs à la Croix de Bois dispense aux garçons du CM1 à la Terminale&nbsp;une <strong>formation intégrale</strong>&nbsp;comprenant :
