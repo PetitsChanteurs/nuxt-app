@@ -80,15 +80,19 @@ export default defineContentConfig({
     }),
     manecanterie: defineCollection({
       type: 'data',
-      source: 'la-manecanterie/pages/*.yml',
+      source: 'la-manecanterie/pages/*.md',
       schema: z.object({
+        section: z.string(),
         title: z.string(),
-        content: z.string().optional(),
-        items: z.array(z.object({
+        accueil: z.string().optional(),
+        chiffres: z.array(z.object({
+          section: z.string(),
+          title: z.string().optional(),
+          text: z.string().optional()
+        })),
+        buttons: z.array(z.object({
           title: z.string(),
-          subtitle: z.string().optional(),
-          text: z.string().optional(),
-          images: z.array(z.string()).optional(),
+          href: z.string()
         }))
       })
     }),
