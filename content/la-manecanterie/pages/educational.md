@@ -7,23 +7,6 @@ chiffres:
     id: "formule-integrale"
     title: "8 heures"
     text: "de musique par semaine"
-  - section: "Un savoir être →"
-    id: "savoir-etre"
-    title: "34 semaines"
-    text: "de cours à l’institution"
-  - section: "Un savoir-faire →"
-    id: "savoir-vivre"
-    title: "45 jours"
-    text: "en tournée par an"
-  - section: "Une aventure familiale →"
-    id: "aventure-familiale"
-    title: "aventure familiale"
-    text: "Être Missionnaire
-buttons:
-  - title: "La scolarité"
-    href: "/la-manecanterie/scolarite/""
-  - title: "Comment devenir Petit Chanteur"
-    href: "/la-manecanterie/admission-devenir-pccb"
 ---
 
 La Manécanterie des&nbsp;Petits Chanteurs à la Croix de Bois dispense aux garçons du CM1 à la Terminale&nbsp;une <strong>formation intégrale</strong>&nbsp;comprenant :

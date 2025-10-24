@@ -89,10 +89,6 @@ export default defineContentConfig({
           section: z.string(),
           title: z.string().optional(),
           text: z.string().optional()
-        })),
-        buttons: z.array(z.object({
-          title: z.string(),
-          href: z.string()
         }))
       })
     }),
