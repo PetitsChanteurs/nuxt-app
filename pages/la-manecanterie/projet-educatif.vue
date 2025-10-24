@@ -1,6 +1,7 @@
 <template>
 
     <LayoutTitle :page="page" />
+    <ContentRenderer v-if="content" :value="content" />
 
     <div v-if="content && content.items" v-for="section in content.items">
 

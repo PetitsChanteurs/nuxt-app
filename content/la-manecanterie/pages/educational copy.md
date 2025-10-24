@@ -1,6 +1,6 @@
 ---
 section: Le manécanterie
-title: Projet éducatif
+title: Projet é'"'""'ducatif
 accueil: Un projet éducatif unique en France, s’étendant de la classe de CM1 jusqu’à la Terminale, et visant à offrir une continuité pédagogique inédite ainsi qu’une cohérence éducative exemplaire pour tous les élèves.
 chiffres:
   - section: Une formule intégrale →
