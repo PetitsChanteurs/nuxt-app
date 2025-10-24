@@ -84,8 +84,7 @@ export default defineContentConfig({
       schema: z.object({
         section: z.string(),
         title: z.string(),
-        accueil: z.string().optional(),
-        
+        accueil: z.string(),
       })
     }),
     content: defineCollection({
