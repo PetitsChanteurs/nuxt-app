@@ -11,7 +11,7 @@ chiffres:
 
 ::Sommaire
 #introduction
-ezzzeze
+ezzzeze.
 ::Chiffre
 Une formule intégrale →
 #titre
