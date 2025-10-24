@@ -84,12 +84,7 @@ export default defineContentConfig({
       schema: z.object({
         section: z.string(),
         title: z.string(),
-        accueil: z.string(),
-        chiffres: z.array(z.object({
-          section: z.string(),
-          title: z.string().optional(),
-          text: z.string().optional()
-        }))
+        accueil: z.string()
       })
     }),
     content: defineCollection({

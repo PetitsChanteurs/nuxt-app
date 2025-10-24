@@ -1,5 +1,5 @@
 <template>
-    <div class="dark:bg-neutral-900">
+    <div class="">
         <LayoutHeader />
         <div class="mx-auto max-w-7xl px-6 pt-8 lg:px-8">
             <slot />
