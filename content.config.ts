@@ -79,7 +79,7 @@ export default defineContentConfig({
       })
     }),
     manecanterie: defineCollection({
-      type: 'data',
+      type: 'page',
       source: 'la-manecanterie/pages/*.md',
       schema: z.object({
         section: z.string(),
