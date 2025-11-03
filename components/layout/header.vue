@@ -2,7 +2,7 @@
     <!-- ========== HEADER ========== -->
     <header class="fixed flex flex-wrap md:justify-start md:flex-nowrap z-50 w-full bg-white border-b border-gray-200">
         <nav
-            class="relative max-w-7xl w-full mx-auto grid grid-cols-5 items-center justify-between py-2 px-4 sm:px-6 lg:px-8">
+            class="relative h-22 max-w-7xl w-full mx-auto grid grid-cols-5 items-center justify-between py-2 px-4 sm:px-6 lg:px-8">
             <!-- Menu à gauche -->
             <div id="menu" class="flex flex-col col-span-2 md:flex-row md:items-center gap-0.5 md:gap-1">
                 <div v-for="item in menu" :key="item.href" :item="item">
