@@ -1,43 +1,107 @@
 [
   {
     "title": "Le choeur",
-    "href": "/le-choeur/histoire",
+    "href": "/le-choeur",
     "active": false,
     "items": [
-      { "title": "Notre histoire", "href": "/le-choeur/histoire" },
-      { "title": "Extraits", "href": "/le-choeur/extraits" },
-      { "title": "Discographie", "href": "/le-choeur/discographie" },
-      { "title": "Répertoire", "href": "/le-choeur/repertoire" },
-      { "title": "Prestations", "href": "/le-choeur/prestations" },
-      { "title": "Itinéraires",
-       "href": "/le-choeur/partenaires" },
-      { "title": "Concerts", "href": "/la-boutique/billeterie", "target": "_blank" },
-      { "separator": true },
-      { "title": "Pueri cantores", "href": "/pueri-cantores" },
-      { "title": "Bureau des anciens", "href": "/bureau-des anciens" }
+      {
+        "title": "Notre histoire",
+        "href": "/le-choeur/histoire"
+      },
+      {
+        "title": "Extraits",
+        "href": "/le-choeur/extraits"
+      },
+      {
+        "title": "Discographie",
+        "href": "/le-choeur/discographie"
+      },
+      {
+        "title": "Répertoire",
+        "href": "/le-choeur/repertoire"
+      },
+      {
+        "title": "Prestations",
+        "href": "/le-choeur/prestations"
+      },
+      {
+        "title": "Itinéraires",
+        "href": "/le-choeur/partenaires"
+      },
+      {
+        "title": "Concerts",
+        "href": "/la-boutique/billeterie",
+        "target": "_blank"
+      },
+      {
+        "separator": true
+      },
+      {
+        "title": "Pueri cantores",
+        "href": "/pueri-cantores"
+      },
+      {
+        "title": "Bureau des anciens",
+        "href": "/bureau-des anciens"
+      }
     ]
   },
   {
     "title": "La manécanterie",
-    "href": "/la-manecanterie/projet-educatif",
+    "href": "/la-manecanterie",
     "items": [
-      { "title": "Projet éducatif", "href": "/la-manecanterie/projet-educatif" },
-      { "title": "Scolarité", "href": "/la-manecanterie/scolarite" },
-      { "title": "Internat", "href": "/la-manecanterie/internat" },
-      { "title": "Formation artistique", "href": "/la-manecanterie/formation-artistique" },
-      { "title": "Missions", "href": "/la-manecanterie/Missions" },
-      { "title": "Formation spirituelle", "href": "/la-manecanterie/Formation-spirituelle" },
-      { "separator": true },
-      { "title": "Admissions - Devenir PCCB", "href": "/la-manecanterie/admission-devenir-pccb" }
+      {
+        "title": "Projet éducatif",
+        "href": "/la-manecanterie/projet-educatif"
+      },
+      {
+        "title": "Scolarité",
+        "href": "/la-manecanterie/scolarite"
+      },
+      {
+        "title": "Internat",
+        "href": "/la-manecanterie/internat"
+      },
+      {
+        "title": "Formation artistique",
+        "href": "/la-manecanterie/formation-artistique"
+      },
+      {
+        "title": "Missions",
+        "href": "/la-manecanterie/Missions"
+      },
+      {
+        "title": "Formation spirituelle",
+        "href": "/la-manecanterie/Formation-spirituelle"
+      },
+      {
+        "separator": true
+      },
+      {
+        "title": "Admissions - Devenir PCCB",
+        "href": "/la-manecanterie/admission-devenir-pccb"
+      }
     ]
   },
   {
     "title": "La boutique",
     "items": [
-      { "title": "Billeterie", "href": "/la-boutique/billeterie", "target": "_blank" },
-      { "title": "Produits dérivés", "href": "/la-boutique/produits-derives" },
-      { "separator": true },
-      { "title": "Dons et Legs", "href": "/la-boutique/dons-et-legs" }
+      {
+        "title": "Billeterie",
+        "href": "/la-boutique/billeterie",
+        "target": "_blank"
+      },
+      {
+        "title": "Produits dérivés",
+        "href": "/la-boutique/produits-derives"
+      },
+      {
+        "separator": true
+      },
+      {
+        "title": "Dons et Legs",
+        "href": "/la-boutique/dons-et-legs"
+      }
     ]
   }
 ]

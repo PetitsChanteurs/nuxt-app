@@ -1,5 +1,5 @@
 <template>
-    <LayoutTitle :page="page" />
+    <LayoutTitle :value="page" />
     <div>
         <iframe allowfullscreen="true" scrolling="no" class="fp-iframe"
             src="https://heyzine.com/flip-book/04ac708012.html"

@@ -1,5 +1,5 @@
 <template>
-    <LayoutTitle :page="page" />
+    <LayoutTitle :value="page" />
 </template>
 
 <script setup lang="ts">

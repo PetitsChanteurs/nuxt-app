@@ -1,5 +1,5 @@
 <template>
-    <LayoutTitle :page="page" />
+    <LayoutTitle :value="page" />
 
     <BlockShopEvents :data="grouped" />
 

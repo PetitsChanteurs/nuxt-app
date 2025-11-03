@@ -55,41 +55,31 @@ export default defineContentConfig({
         })),
       })
     }),
-    choeur: defineCollection({
-      type: 'data',
-      source: 'le-choeur/pages/*.yml',
-      schema: z.object({
-        title: z.string(),
-        items: z.array(z.object({
-          title: z.string(),
-          subtitle: z.string().optional(),
-          text: z.string().optional(),
-          images: z.array(z.string()).optional(),
-        }))
-      })
-    }),
     events: defineCollection({
       type: 'data',
       source: 'events/*.yml',
       schema: z.object({
         title: z.string(),
+        ville: z.string(),
+        lieu: z.string(),
+        datetime: z.string(),
         url: z.string(),
         type: z.string(),
         widget: z.string().optional()
       })
     }),
-    manecanterie: defineCollection({
+    content: defineCollection({
       type: 'page',
-      source: 'la-manecanterie/pages/*.md',
+      source: '**/*.md',
       schema: z.object({
         section: z.string(),
+        breadcrumb: z.array(z.object({
+          title: z.string(),
+          href: z.string()
+        })),
         title: z.string(),
         accueil: z.string()
       })
-    }),
-    content: defineCollection({
-      type: 'page',
-      source: '**/*.yml'
     })
   }
 })

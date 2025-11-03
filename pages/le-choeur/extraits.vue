@@ -1,5 +1,5 @@
 <template>
-    <LayoutTitle :page="page" />
+    <LayoutTitle :value="page" />
     <!-- List -->
     <div>
         <div v-for="section in extraits" :key="section.title">

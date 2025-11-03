@@ -1,5 +1,5 @@
 <template>
-    <LayoutTitle :page="page" />
+    <LayoutTitle :value="page" />
     <div>
         <div v-for="section in grouped" :key="section.title">
             <div

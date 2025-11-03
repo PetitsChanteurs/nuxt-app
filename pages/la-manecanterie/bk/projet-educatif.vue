@@ -1,8 +1,9 @@
 <template>
-
+    <!--
     <LayoutTitle :page="page" />
+    {{ content }}
     <ContentRenderer v-if="content" :value="content" />
-
+    -->
 </template>
 
 <script setup lang="ts">

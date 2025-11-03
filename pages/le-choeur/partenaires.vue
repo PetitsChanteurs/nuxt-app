@@ -1,5 +1,5 @@
 <template>
-    <LayoutTitle :page="page" />
+    <LayoutTitle :value="page" />
     <div>
         <!-- Clients -->
         <div v-for="section in partenaires" :key="section.title" class="w-full py-10 mx-auto">

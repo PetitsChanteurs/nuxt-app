@@ -1,5 +1,5 @@
 <template>
-    <LayoutTitle :page="page" />
+    <LayoutTitle :value="page" />
     <div class="w-full">
         <h2 class="my-4">Depuis 117 ans, plus de 8000 enfants ont été Petit Chanteur à la Croix de Bois. </h2>
         <p class="my-4">Dans les résidences successives de la Mané, à Paris, Meudon, Glaignes, Brienon ou Autun, c’est

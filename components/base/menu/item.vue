@@ -1,7 +1,7 @@
 <template>
 
     <NuxtLink
-        :class="['py-2 px-2 flex items-center text-base text-blue-950 hover:bg-gray-100 rounded-lg focus:outline-hidden focus:bg-gray-100 dark:bg-neutral-700 dark:text-neutral-200 dark:hover:bg-neutral-700 dark:focus:bg-neutral-700 cursor-pointer font-cinzel-decorative', { 'bg-gray-100': item.active }]"
+        :class="['py-2 px-2 flex items-center text-base text-blue-950 hover:bg-gray-100 rounded-lg focus:outline-hidden focus:bg-gray-100 cursor-pointer font-cinzel-decorative', { 'bg-gray-100': item.active }]"
         :href="item.href" :target="item.target" aria-current="page">
         <svg class="shrink-0 size-4 me-3 md:me-2 block md:hidden" xmlns="http://www.w3.org/2000/svg" width="24"
             height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
