@@ -16,7 +16,7 @@
             <!-- Logo au centre -->
             <div id="logo" class="flex justify-center items-center flex-1">
                 <NuxtLink to="/">
-                    <NuxtImg src="/assets/images/logo.png" alt="Logo" class="h-full w-auto max mx-auto" />
+                    <NuxtImg src="/assets/images/logo.png" alt="Logo" class="h-auto w-auto max mx-auto" />
                 </NuxtLink>
             </div>
 
