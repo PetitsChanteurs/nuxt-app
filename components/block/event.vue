@@ -1,6 +1,6 @@
 <template>
     <!-- Card -->
-    <div class="group flex flex-col">
+    <div class="group flex flex-col mb-7">
         <div class="relative">
             <div class="h-48 w-auto overflow-hidden rounded-2xl">
                 <img class="size-full object-cover rounded-2xl" src="/assets/bg/event.jpg" alt="">
@@ -22,12 +22,12 @@
             <div class="flex flex-col">
                 <!-- Item -->
                 <div class="py-3 border-t border-gray-200 dark:border-neutral-700">
-                    <div class="grid grid-cols-2 gap-2">
+                    <div class="grid grid-cols-3 gap-2">
                         <div>
                             <span class="font-medium text-black">Lieu du concert :</span>
                         </div>
 
-                        <div class="text-end">
+                        <div class="col-span-2 text-end">
                             <span class="text-black">{{ props.event.lieu }}</span>
                         </div>
                     </div>
@@ -37,12 +37,17 @@
             </div>
             <!-- End List -->
         </div>
-
-        <div class="mt-auto">
+        <div class="mt-auto" v-if="props.event.url">
             <a class="py-2 px-3 w-full inline-flex justify-center items-center gap-x-2 text-sm font-medium text-nowrap rounded-xl border border-transparent bg-blue-900 text-white hover:bg-blue-950 focus:outline-hidden focus:bg-yellow-500 transition disabled:opacity-50 disabled:pointer-events-none"
                 target="_blank" :href="props.event.url">
                 Réserver des places
             </a>
+        </div>
+        <div v-else class="mt-auto">
+            <span
+                class="py-2 px-3 w-full inline-flex justify-center items-center gap-x-2 text-sm font-medium text-nowrap rounded-xl border border-transparent bg-gray-400 text-white cursor-not-allowed">
+                Billeterie sur place
+            </span>
         </div>
     </div>
     <!-- End Card -->

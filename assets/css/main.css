@@ -33,7 +33,6 @@ h6 {
 }
 
 .article p {
-    font-size: 16px;
     margin-bottom: 10px;
 }
 
@@ -55,4 +54,35 @@ h6 {
     font-weight: 500 !important;
     font-size: 20px !important;
     margin-bottom: 5px;
+}
+
+.vue-music-flow {
+    .mw\:fixed {
+        z-index: 100 !important;
+        height: 80px !important;
+    }
+}
+
+.vue-music-flow .mw\:font-semibold {
+    font-weight: normal !important;
+}
+
+@media (min-width: 40rem) {
+    .vue-music-flow .mw\:phone\:\[grid-template-areas\:\'image_metadata_controls_volume_actions\'_\'currentDuration_waveform_waveform_waveform_endDuration\'\] {
+        grid-template-areas: "image metadata controls volume actions currentDuration endDuration";
+    }
+}
+
+.vue-music-flow {
+    --mw-color-mw-primary-dark: #030712;
+    --mw-color-mw-primary: #1c398e;
+    --mw-color-mw-secondary: #1c398e;
+    --mw-color-mw-primary-border: #1c398e;
+    --mw-color-mw-primary-hover: #ff2600;
+    --mw-color-mw-primary-active: #ff2600;
+    --mw-color-mw-primary-typography: #fafafa;
+    --mw-color-mw-secondary-typography: #a1a1a1;
+    --scroll-bar-background-light: #f8fafc;
+    --scroll-bar-background: #1d293d;
+    --scroll-bar-slider: #8e51ff;
 }

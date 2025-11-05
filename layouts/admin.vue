@@ -34,7 +34,7 @@
                     <li class="inline-flex items-center relative">
                         <a class="w-full flex items-center gap-x-2 py-2 ps-2.5 pe-8 text-sm text-gray-800 truncate rounded-lg hover:bg-gray-100/70 focus:outline-hidden focus:bg-gray-100/70 dark:hover:bg-neutral-700/50 dark:focus:bg-neutral-700/50 dark:text-neutral-200"
                             href="chat-details.html">
-                            <span class="truncate">Preline UI Overview</span>
+                            <span class="truncate">Espace parents</span>
                         </a>
                     </li>
                 </ul>

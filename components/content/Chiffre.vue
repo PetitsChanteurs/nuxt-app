@@ -1,15 +1,15 @@
 <template>
   <div class="py-5 px-0">
-    <h4 class="text-lg font-semibold text-red-800">
+    <h4 class="text-base text-white bg-red-700 py-2 px-4 text-dosis">
       <NuxtLink class="cursor-pointer" :to="'#' + lien">
-        <slot />
+        <slot mdc-unwrap="p" />
       </NuxtLink>
     </h4>
-    <div class="mt-2 sm:mt-3 text-2xl sm:text-xl text-black text-cinzel">
-      <slot name="titre" />
+    <div class="mt-2 sm:mt-3 text-3xl sm:text-2xl text-white">
+      <slot name="titre" mdc-unwrap="p" />
     </div>
-    <div class="mt-1 text-lg text-black">
-      <slot name="sous-titre" />
+    <div class="mt-1 text-lg text-white">
+      <slot name="sous-titre" mdc-unwrap="p" />
     </div>
   </div>
 </template>

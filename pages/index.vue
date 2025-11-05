@@ -10,9 +10,6 @@
                     Les ambassadeurs <br />de la paix
                 </h1>
             </div>
-            <div class="absolute z-20 bottom-4 right-4">
-                <AudioPlayer />
-            </div>
         </div>
     </div>
     <!-- End Hero -->
@@ -34,7 +31,7 @@
         <div class="mt-10 lg:mt-20 text-center">
             <NuxtLink
                 class="relative inline-block font-medium md:text-lg text-black before:absolute before:bottom-0.5 before:start-0 before:-z-1 before:w-full before:h-1 before:bg-red-800 hover:before:bg-black focus:outline-hidden focus:before:bg-black"
-                to="le-choeur/concerts">
+                to="/le-choeur/concerts">
                 Voir tous les concerts
             </NuxtLink>
         </div>

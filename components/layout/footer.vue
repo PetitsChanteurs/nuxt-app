@@ -53,6 +53,17 @@
                                 role="tooltip">Conditions générales de ventes</span>
                         </a>
                     </li>
+                    <li
+                        class="inline-block hs-tooltip relative pe-8 last:pe-0 last-of-type:before:hidden before:absolute before:top-1/2 before:end-3 before:-translate-y-1/2 before:content-['/'] before:text-white dark:before:text-white">
+                        <NuxtLink
+                            class="inline-flex gap-x-2 text-sm text-white hover:text-gray-300 dark:text-white dark:hover:text-neutral-300"
+                            to="/espace-parents">
+                            EP
+                            <span
+                                class="hs-tooltip-content hs-tooltip-shown:opacity-100 hs-tooltip-shown:visible opacity-0 transition-opacity inline-block absolute invisible z-10 py-1 px-2 bg-gray-900 text-white"
+                                role="tooltip">Espace parents</span>
+                        </NuxtLink>
+                    </li>
                 </ul>
 
                 <div class="flex space-x-6 justify-end">

@@ -23,6 +23,7 @@ export default defineNuxtConfig({
   modules: [
     '@nuxt/content',
     '@nuxt/fonts',
-    '@nuxt/image'
+    '@nuxt/image',
+    'nuxt-music-flow'
   ]
 })
