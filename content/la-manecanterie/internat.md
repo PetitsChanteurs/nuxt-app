@@ -1,5 +1,5 @@
 ---
-section: La manécanterie
+section: La Manécanterie
 title: Internat
 breadcrumb:
   - title: "Scolarité"
@@ -70,7 +70,7 @@ par soir
 
 ::
 
-Sous la responsabilité du chef d’établissement de l’institution Saint Lazare Saint Sacrement, la maison des Petits Chanteurs et sa directrice assistée de ses deux maîtres d’internat, ont pour objectif de **créer un cadre bienveillant et propice au travail, au service du projet spécifique des Petits Chanteurs**.
+Sous la responsabilité du chef d’établissement de l’institution Saint Lazare Saint Sacrement, la maison des Petits Chanteurs et sa responsable, assistée de ses deux maîtres d’internat, ont pour objectif de **créer un cadre bienveillant et propice au travail, au service du projet spécifique des Petits Chanteurs**.
 
 ## Autonomie
 
@@ -78,7 +78,7 @@ Chaque garçon y apprend l’autonomie et l’exerce chaque jour à travers tous
 
 ## Détente
 
-**Les temps de détente** sont plus que nécessaire dans l’équilibre de ces enfants-chanteurs ! De nombreuses activités sont organisées chaque semaine par les éducateurs : activités ludiques mais aussi éducatives : sport dans le gymnase de l’internat ou à l’extérieur, jeux dans les salons de l’internat (billards, baby-foot, échecs, journaux, soirées film).
+**Les temps de détente** sont plus que nécessaire dans l’équilibre de ces enfants-chanteurs ! De nombreuses activités sont organisées chaque semaine par les éducateurs : activités ludiques mais aussi éducatives : sport dans le gymnase de l’internat ou à l’extérieur, jeux dans les salons de l’internat (piano, jeux de société, baby-foot, échecs, journaux, soirées film).
 
 ## Prière
 

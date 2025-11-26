@@ -1,5 +1,5 @@
 ---
-section: La manécanterie
+section: La Manécanterie
 title: Formation spirituelle
 breadcrumb:
   - title: "Mission"

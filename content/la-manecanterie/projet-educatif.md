@@ -1,5 +1,5 @@
 ---
-section: Le manécanterie
+section: La Manécanterie
 title: Projet éducatif
 breadcrumb:
   - title: "Comment devenir Petit Chanteur"

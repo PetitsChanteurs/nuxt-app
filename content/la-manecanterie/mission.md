@@ -1,5 +1,5 @@
 ---
-section: La manécanterie
+section: La Manécanterie
 title: Mission
 breadcrumb:
   - title: "Formation artistique"

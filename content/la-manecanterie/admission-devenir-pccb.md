@@ -1,5 +1,5 @@
 ---
-section: La manécanterie
+section: La Manécanterie
 title: Admission - Devenir Petit Chanteur à la Croix de Bois
 breadcrumb:
   - title: "Formation spirituelle"
