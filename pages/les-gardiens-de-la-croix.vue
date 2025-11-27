@@ -36,7 +36,7 @@
 
                 <div class="space-y-5 text-lg mb-10">
                     <p class="text-gray-500">
-                        <span class="text-bold text-red-800">Soutenir</span> une oeuvre éducative et missionnaire et
+                        <span class="text-bold text-red-800">Soutenir</span> une œuvre éducative et missionnaire et
                         permettre à
                         de
                         jeunes talents de bénéficier d’une formation humaine, spirituelle
@@ -251,35 +251,35 @@ const pricing = [
     {
         title: 'Aspirant Gardien',
         value: '50',
-        description: 'Premier niveau des gardiens de la croix.',
+        description: 'Premier niveau des Gardiens de la Croix.',
         items: [
             'Bulletin d\'information régulier',
             'Accès à des contenus exclusifs',
             'Participation à des événements spéciaux',
-            '2 invitations par an au concert proche de chez vous',
+            '2 invitations par an aux concerts proche de chez vous',
         ],
     },
     {
         title: 'Gardien',
         value: '500',
-        description: 'Deuxième niveau des gardiens de la croix.',
+        description: 'Deuxième niveau des Gardiens de la Croix.',
         items: [
             'Bulletin d\'information régulier',
             'Accès à des contenus exclusifs',
             'Participation à des événements spéciaux',
-            '10 invitations par an au concert proche de chez vous',
+            '10 invitations par an aux concerts proches de chez vous',
             'Pin\'s des Gardiens',
         ],
     },
     {
         title: 'Grand Gardien',
         value: '2000',
-        description: 'Niveau ultime des gardiens de la croix.',
+        description: 'Niveau ultime des Gardiens de la Croix.',
         items: [
             'Bulletin d\'information régulier',
             'Accès à des contenus exclusifs',
             'Participation à des événements spéciaux',
-            '50 invitations par an au concert proche de chez vous',
+            '50 invitations par an aux concerts proches de chez vous',
             'Pin\'s des Grands Gardiens',
             'Rencontre annuelle avec le groupe',
             'Accès VIP aux coulisses lors des concerts',

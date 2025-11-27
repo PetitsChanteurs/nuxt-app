@@ -62,10 +62,10 @@ lien: les-missions-en-france-et-dans-le-monde
 Dans le monde →
 
 #titre
-10 millions
+57 
 
 #sous-titre
-de vues sur YouTube
+pays visités
 :::
 
 ::
@@ -96,7 +96,7 @@ Durant leur scolarité, les Petits Chanteurs à la Croix de Bois sont appelés �
 
 Ces nombreux voyages constituent un élément pédagogique important de la Manécanterie. Ils sont l’occasion d’une ouverture permanente sur des modes de vie différents et développent chez le Petit Chanteur des facultés d’adaptation, d’organisation et d’entraide. Ainsi le Petit Chanteur acquiert une certaine autonomie, une ouverture d’esprit et une rigueur qui sont autant d’atouts pour sa vie future.
 
-Toutes les activités (voyages, enregistrements etc.) sont entièrement prises en charge par l’Association.
+Toutes les activités (voyages, enregistrements etc.) sont entièrement prises en charge par la Manécanterie.
 
 ::ButtonZone
 

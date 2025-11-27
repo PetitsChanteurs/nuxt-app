@@ -12,7 +12,7 @@ breadcrumb:
 
 #introduction
 
-La formation spirituelle est la pierre d’angle du projet, c’est sous le regard de Dieu que se vit la mission de Petit Chanteur à La Croix de Bois.
+La formation spirituelle est la pierre d’angle du projet, c’est sous le regard de Dieu que se vit la Mission de Petit Chanteur à la Croix de Bois.
 
 #elements
 
@@ -49,7 +49,7 @@ lien: prière-et-sacrements
 Prière quotidienne →
 
 #titre
-+ 1 heure sainte
+1 heure sainte
 
 #sous-titre
 le premier jeudi du mois
@@ -80,7 +80,7 @@ Vivre en Petit Chanteur à la Croix de Bois, c’est d’abord affermir sa foi. 
 
 ## Prière et sacrements
 
-Notre aumônier, le Père Lhomme, anime des temps de prière et de catéchèse réguliers, et célèbre la messe tous les mercredis au sein de la chapelle de l’établissement. Nous veillons à ce que chaque élève qui le souhaite puisse recevoir les Sacrements de l’Eglise.
+Notre aumônier, le Père Lhomme, anime des temps de prière et de catéchèse réguliers, et célèbre la messe tous les mercredis et vendredis au sein de la chapelle de l’établissement. Nous veillons à ce que chaque élève qui le souhaite puisse recevoir les Sacrements de l’Eglise.
 
 ## Devenir un homme qui rayonne
 

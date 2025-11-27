@@ -1,5 +1,5 @@
 ---
-section: Le chœur
+section: Le Chœur
 title: Notre histoire
 breadcrumb: 
   - title: "Bureau des anciens"
@@ -19,13 +19,13 @@ images:
 ---
 
 #sous-titre
-Un institution centenaire
+Une institution centenaire
 
 #titre
 En mission depuis 117 ans
 
 #text
-C’est à l’Abbaye de Tamié en Savoie que tout a commencé en 1907. Deux étudiants en retraite, Pierre Martin et Paul Berthier, décident de créer une maîtrise de garçons qui ira dans les églises françaises faire redécouvrir les merveilles de la musique sacrée. Ils recrutent une poignée d’enfants de milieux populaires : **Les Petits Chanteurs à la Croix de Bois sont nés.**
+C’est à l’Abbaye de Tamié en Savoie que tout a commencé en 1907. Deux étudiants en retraite, Pierre Martin et Paul Berthier, décident de créer une maîtrise de garçons qui ira dans les églises françaises faire redécouvrir les merveilles de la musique sacrée. Ils recrutent une poignée d’enfants de milieux populaires : **les Petits Chanteurs à la Croix de Bois sont nés.**
 
 Après quelques années passées en tant que maîtrise itinérante, les Petits Chanteurs à la Croix de Bois vont, sous la direction de l’Abbé Maillet, prendre un nouvel envol et parcourir le monde à la rencontre des peuples, en portant un message de paix et de fraternité.
 
@@ -42,7 +42,7 @@ Eté 1907
 #titre
 Les débuts d’une œuvre populaire
 #texte
-C’est à l’Abbaye de Tamié en Savoie que tout a commencé. Deux étudiants en retraite, Pierre Martin et Paul Berthier, décident de créer une maîtrise de garçons qui ira dans les églises françaises faire redécouvrir les merveilles de la musique sacrée. Ils recrutent une poignée d’enfants de milieux populaires : Les Petits Chanteurs à la Croix de Bois sont nés.
+C’est à l’Abbaye de Tamié en Savoie que tout a commencé. Deux étudiants en retraite, Pierre Martin et Paul Berthier, décident de créer une maîtrise de garçons qui ira dans les églises françaises faire redécouvrir les merveilles de la musique sacrée. Ils recrutent une poignée d’enfants de milieux populaires : les Petits Chanteurs à la Croix de Bois sont nés.
 :::
 
 :::timelineElement
@@ -135,7 +135,7 @@ image: photo_1.jpg
 L’œuvre continue
 
 #texte
-En plein seconde guerre mondiale les Petits Chanteurs à la Croix de Bois continuent de chanter. Il prendront même, en 1942, la direction de l’ Allemagne pour chanter dans les camps de prisonniers.
+En pleine seconde guerre mondiale les Petits Chanteurs à la Croix de Bois continuent de chanter. Ils prendront même, en 1942, la direction de l’ Allemagne pour chanter dans les camps de prisonniers.
 
 :::
 
@@ -148,7 +148,7 @@ En plein seconde guerre mondiale les Petits Chanteurs à la Croix de Bois contin
 Fondation des Pueri Cantores
 
 #texte
-En 1951, l’abbé Maillet et les Petits Chanteurs à la Croix de Bois fondent la Fédération Internationale des Pueri Cantores, dans l’objectif de développer et faire connaître le chant choral dans le monde entier.
+En 1951, l’Abbé Maillet et les Petits Chanteurs à la Croix de Bois fondent la Fédération Internationale des Pueri Cantores, dans l’objectif de développer et faire connaître le chant choral dans le monde entier.
 
 :::
 
@@ -200,7 +200,7 @@ Sylvie
 #lieu
 Concert de Caen - 2024
 #texte
-Un retour en enfance ou ma maman m'emmenait les écouter. Toujours aussi magique et émouvant. Bravo aux Petits Chanteurs à la Croix de Bois pour leur talent et leur passion.
+Un retour en enfance où ma maman m'emmenait les écouter. Toujours aussi magique et émouvant. Bravo aux Petits Chanteurs à la Croix de Bois pour leur talent et leur passion.
 
 :::
 
@@ -217,16 +217,12 @@ Votre chant a fait renaitre en moi la flamme de la foi. Merci pour ce moment de 
 
 ::
 
-# La mission continue
-
-En mission depuis 117 ans
-
-En 2006-2007, les festivités du centenaire sont vécues avec une quinzaine d’artistes. Le 14 juillet, les Petits Chanteurs défilent sur les Champs Élysées. S’en suivront quelques années de gestion difficile qui conduiront la Manécanterie vers une installation à Autun en septembre 2014. Les Petits Chanteurs y trouvent un cadre favorable pour se ressourcer, s’épanouir et progresser dans leur pratique artistique.
-
 ::Colonnes
 
 :::titreTexte
-En 2006-2007, les festivités du centenaire sont vécues avec une quinzaine d’artistes. Le 14 juillet, les Petits Chanteurs défilent sur les Champs Élysées. S’en suivront quelques années de gestion difficile qui conduiront la Manécanterie vers une installation à Autun en septembre 2014. Les Petits Chanteurs y trouvent un cadre favorable pour se ressourcer, s’épanouir et progresser dans leur pratique artistique.
+En 2006-2007, les festivités du centenaire des Petits Chanteurs à la Croix de Bois sont vécues avec une quinzaine d’artistes. Le 14 juillet 2007, les Petits Chanteurs défilent sur les Champs Élysées. S’en suivront quelques années de gestion difficile qui conduiront la Manécanterie vers une installation à Autun en septembre 2014. Les Petits Chanteurs y trouvent un cadre favorable pour poursuivre leur Mission" .
+
+Il préparent les prochaines festivités du 120ème anniversaire qui auront lieu en 2027.
 
 #titre
 La mission continue
@@ -254,7 +250,7 @@ cssTexte: text-white
 ---
 Postulez pour votre garçon
 #titre
-Accédez à la billeterie
+Rejoindre la Manécanterie
 ::::
 
 ::::VerticalButtonElement

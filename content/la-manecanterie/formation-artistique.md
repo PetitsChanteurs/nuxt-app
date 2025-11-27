@@ -70,7 +70,7 @@ en fonction du niveau
 
 ::
 
-**Depuis plus de 100 ans, la Manécanterie des Petits Chanteurs à la Croix de Bois est renommée pour sa formation artistique.** Chaque année, la Manécanterie accueille des enfants âgés de 8 à 18 ans et de tous horizons, **certains n’ayant bénéficié d’aucun enseignement musical antérieur**.
+**Depuis plus de 100 ans, la Manécanterie des Petits Chanteurs à la Croix de Bois est renommée pour sa formation artistique.** Chaque année, la Manécanterie accueille des enfants âgés de 10 à 18 ans et de tous horizons, **certains n’ayant bénéficié d’aucun enseignement musical antérieur**.
 
 Lors de nos auditions, nous recherchons avant tout des élèves profondément motivés, animés d’une voix dont on demande seulement qu’elle soit juste et ayant une bonne capacité de mémorisation.
 

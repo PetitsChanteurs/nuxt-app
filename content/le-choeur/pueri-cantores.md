@@ -1,5 +1,5 @@
 ---
-section: Le chœur
+section: Le Chœur
 title: Pueri Cantores
 breadcrumb: 
   - title: "Partenaires"
@@ -25,9 +25,9 @@ Une œuvre initiée par les Petits Chanteurs à la Croix de Bois
 En mission depuis 1924
 
 #text
-En 1907, les "Petits Chanteurs à la Croix de Bois" de Paris furent l’un de ces nouveaux en lien avec le “Motu proprio” de 1903. Ce document du Pape Pie X encourageait la création de manécanteries. L’objectif n’était pas simplement de promouvoir le chant liturgique mais aussi de donner une éducation musicale et religieuse.
+En 1907, les "Petits Chanteurs à la Croix de Bois" de Paris furent l’un de ces nouveaux chœurs en lien avec le “Motu proprio” de 1903. Ce document du Pape Pie X encourageait la création de manécanteries. L’objectif n’était pas simplement de promouvoir le chant liturgique mais aussi de donner une éducation musicale et religieuse.
 
-En 1924 l’abbé Fernand Maillet a pris la direction des “Petits Chanteurs”. En accord avec les souhaits du Pape, il est allé plus loin, voulant répandre à travers le monde cette idée d’enfants chanteurs afin de contribuer à établir un langage international par le chant. Par la suite, les Petits Chanteurs à la Croix de Bois ont voyagé dans de nombreux pays. Grâce à leurs concerts, ils ont encouragé la création de nouvelles formations de chœurs de garçons dans le monde.
+En 1924 l’Abbé Fernand Maillet a pris la direction des “Petits Chanteurs”. En accord avec les souhaits du Pape, il est allé plus loin, voulant répandre à travers le monde cette idée d’enfants chanteurs afin de contribuer à établir un langage international par le chant. Par la suite, les Petits Chanteurs à la Croix de Bois ont voyagé dans de nombreux pays. Grâce à leurs concerts, ils ont encouragé la création de nouvelles formations de chœurs de garçons dans le monde.
 
 ::
 
@@ -62,12 +62,12 @@ C’est à l’Abbaye de Tamié en Savoie que tout a commencé. Deux étudiants 
 #titre
 Les Pueri Cantores
 #texte
-En 1924 l’abbé Fernand Maillet a pris la direction des “Petits Chanteurs”. En accord avec les souhaits du Pape, il est allé plus loin, voulant répandre à travers le monde cette idée d’enfants chanteurs afin de contribuer à établir un langage international par le chant. Par la suite, les Petits Chanteurs à la Croix de Bois ont voyagé dans de nombreux pays. Grâce à leurs concerts, ils ont encouragé la création de nouvelles formations de chœurs de garçons dans le monde.
+En 1924 l’Abbé Fernand Maillet a pris la direction des “Petits Chanteurs”. En accord avec les souhaits du Pape, il est allé plus loin, voulant répandre à travers le monde cette idée d’enfants chanteurs afin de contribuer à établir un langage international par le chant. Par la suite, les Petits Chanteurs à la Croix de Bois ont voyagé dans de nombreux pays. Grâce à leurs concerts, ils ont encouragé la création de nouvelles formations de chœurs de garçons dans le monde.
 :::
 
 ::
 
-# Un raseemblement annuel
+## Un rassemblement annuel
 
 ::carouselZone
 
@@ -122,15 +122,15 @@ image: photo_1.jpg
 
 ::
 
-# La vision internationale
+## La vision internationale
 
 La Seconde guerre mondiale a confirmé la vision et l’objectif de l’Abbé Maillet de créer une fédération internationale de choeurs de garçons. Il était convaincu que les chants et prières de paix de tous ces enfants contribueraient à la paix dans le monde.
 
-"Tous les enfants du monde chanteront la Paix de Dieu" était la vision qu’il avait pour construire un monde nouveau. Le 2 Juillet 1944, quelques choeurs français se retrouvent pour la première fois à Paris pour une messe dirigée par l’abbé Maillet. Avant la fin de la 2e guerre mondiale, la formation d’un mouvement international était établie. Par la suite, des chœurs venant d’autres pays ont adhéré avec enthousiasme à cette idée. En 1947, le premier congrès international des Pueri Cantores voit le jour à Paris. 90 choeurs issus de quelques pays étaient présents. Le badge de reconnaissance était une petite croix de bois portée autour du cou.
+"Tous les enfants du monde chanteront la Paix de Dieu" était la vision qu’il avait pour construire un monde nouveau. Le 2 Juillet 1944, quelques choeurs français se retrouvent pour la première fois à Paris pour une messe dirigée par l’Abbé Maillet. Avant la fin de la seconde guerre mondiale, la formation d’un mouvement international était établie. Par la suite, des chœurs venant d’autres pays ont adhéré avec enthousiasme à cette idée. En 1947, le premier congrès international des Pueri Cantores voit le jour à Paris. 90 choeurs issus de quelques pays étaient présents. Le badge de reconnaissance était une petite croix de bois portée autour du cou.
 
-Après le 2e congrès international à Rome en 1949, avec la messe célébrée en la Basilique St Pierre par le Pape Pie XII, les dirigeants de plusieurs pays ont décidé le 24 avril 1950 de fonder officiellement une fédération internationale de Pueri Cantores avec l’abbé Maillet comme président.
+Après le 2e congrès international à Rome en 1949, avec la messe célébrée en la Basilique St Pierre par le Pape Pie XII, les dirigeants de plusieurs pays ont décidé le 24 avril 1950 de fonder officiellement une fédération internationale des Pueri Cantores avec l’Abbé Maillet comme président.
 
-Depuis, environ tous les deux ans, des milliers de Pueri Cantores se rencontrent à l’occasion d’un grand congrès. Le dernier (37e congrès international de la FIPC) a été organisé à Granada en juillet 2012.
+Depuis, environ tous les deux ans, des milliers de Pueri Cantores se rencontrent à l’occasion d’un grand congrès. Le prochain (45e congrès international de la FIPC) sera organisé à Munich en juillet 2025.
 
 St. Dominique Savio a été déclaré Saint Patron de la Fédération internationale des Pueri Cantores par le Pape Pie XII le 8 juin 1956.
 

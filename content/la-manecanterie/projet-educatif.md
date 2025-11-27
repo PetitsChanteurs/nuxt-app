@@ -12,7 +12,7 @@ breadcrumb:
 
 #introduction
 
-Un projet éducatif unique en France, s’étendant de la classe de CM1 jusqu’à la Terminale, et visant à offrir une continuité pédagogique inédite ainsi qu’une cohérence éducative exemplaire pour tous les élèves.
+Un projet éducatif unique en France, s’étendant de la classe de CM2 jusqu’à la Terminale, et visant à offrir une continuité pédagogique inédite ainsi qu’une cohérence éducative exemplaire pour tous les élèves.
 
 #elements
 
@@ -72,7 +72,7 @@ Toute la famille
 
 ## Une formule intégrale
 
-La Manécanterie des Petits Chanteurs à la Croix de Bois dispense aux garçons du CM1 à la Terminale une **formation intégrale** comprenant :
+La Manécanterie des Petits Chanteurs à la Croix de Bois dispense aux garçons du CM2 à la Terminale une **formation intégrale** comprenant :
 
 - Un **cursus scolaire complet** (établissement privé catholique sous contrat), en classes dédiées pour le collège.
 - Une **formation vocale et musicale** de niveau professionnel, qui doit permettre aux garçons de participer à tout type de prestations. Cet apprentissage est assuré par des professeurs de chant, de formation musicale, et chefs de chœurs spécialisés dans la pédagogie des chœurs d’enfants.

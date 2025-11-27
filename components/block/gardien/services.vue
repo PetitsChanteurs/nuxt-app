@@ -137,12 +137,12 @@ const services = ref([
     {
         icon: 'bourse',
         title: 'Aider les petits chanteurs (bourse d\'étude)',
-        description: "Soutenez les enfants talentueux en leur offrant une bourse d'étude. Cette bourse permet au plus grand nombre d'accéder à la formation musicale et scolaire.",
+        description: "Soutenez les Petits Chanteurs en leur offrant une bourse d'étude. Cette bourse permet au plus grand nombre d'accéder à la formation musicale et scolaire proposée par la Manécanterie.",
         items: [
             "Financer l'inscription",
             "Aider à l'achat de fournitures",
             "Soutenir les frais de déplacement",
-            "Contribuer à l'acaht des uniformes",
+            "Contribuer à l'achat des uniformes",
             "Offrir une aide pour les repas",
             "Aider pour l'hébergement",
             "Aider à l'achat d'un instrument",

@@ -39,7 +39,7 @@ La formation scolaire →
 20 heures
 
 #sous-titre
-de cours en moyenne
+de cours par semaine
 :::
 
 :::Chiffre
@@ -52,7 +52,7 @@ La semaine →
 9 niveaux
 
 #sous-titre
-de CM1 à Terminale
+de CM2 à Terminale
 :::
 
 :::Chiffre
@@ -72,7 +72,7 @@ de réussite au brevet
 
 ## L'insititution
 
-Les Petits Chanteurs sont accueillis pour leur scolarité au sein de **l’institution St Lazare – St Sacrement** en ce qui concerne le Primaire et le Collège, et au sein du Lycée Bonaparte en ce qui concerne le Lycée, situés à Autun en Bourgogne. L’institution St Lazare – St Sacrement, établissement catholique en contrat d’association avec l’État, a mis en place des **emplois du temps spécialement adaptés** aux Petits Chanteurs.
+Les Petits Chanteurs sont accueillis pour leur scolarité au sein de **l’institution St Lazare – St Sacrement** en ce qui concerne le Primaire et le Collège, et au sein du Lycée Bonaparte en ce qui concerne le Lycée, situés à Autun en Bourgogne. L’institution St Lazare – St Sacrement, établissement catholique sous contrat d’association avec l’État, a mis en place des **emplois du temps spécialement adaptés** aux Petits Chanteurs.
 
 Ils y suivent une **scolarité** conforme aux programmes officiels de l’Éducation Nationale.
 
@@ -84,7 +84,7 @@ Notre priorité : concilier efficacement scolarité et pratique artistique.
 
 Notre modèle pédagogique nourri de bienveillance et d’exigence est fondé sur un accompagnement individualisé et constant pour le bon déroulement de l’année scolaire de chaque Petit Chanteur.
 
-Chaque semaine, les enfants suivent des cours de « **Savoir Vivre** » dans lequel il est enseigné tous les éléments essentiels pour aider nos jeunes à devenir des hommes responsables. Les sujets abordés sont très variés en fonction de l’âge des jeunes et des besoins : bienséance à table ; organisation et le rangement de sa chambre ; recoudre un vêtement ; comment réagir en cas d’imprévu de transport ; culture générale… Ces cours sont un élément essentiel de notre formation.
+Chaque semaine, les enfants suivent des cours de « **Savoir Vivre** » dans lequel il est enseigné tous les éléments essentiels pour aider nos jeunes à devenir des hommes responsables. Les sujets abordés sont très variés en fonction de l’âge des jeunes et des besoins : bienséance à table ; organisation et rangement de sa chambre ; recoudre un vêtement ; comment réagir en cas d’imprévu de transport ; culture générale… Ces cours sont un élément essentiel de notre formation.
 
 *Nos objectifs :*
 - *BIEN GÉRER le temps pour obtenir les meilleures performances artistiques et scolaires.*
@@ -98,7 +98,9 @@ Chaque semaine, les enfants suivent des cours de « **Savoir Vivre** » dans leq
 
 L’emploi du temps scolaire est aménagé afin que les élèves puissent mener une double compétence dans leur cursus : scolarité et pratique artistique.
 
-Les cours se déroulent du lundi au vendredi. Le temps scolaire est de 18h à 22 heures hebdomadaire (le volume horaire est fonction de la classe) sur 35 semaines de septembre à juin.
+La semaine commence **le lundi à compter de 14h20** et se termine **le vendredi à 15h20. Cela permet de laisser le temps aux enfants de voyager sans rogner sur leur weekend car nous valorisons le temps de repos en famille le weekend.
+
+Le temps scolaire est de 18 à 22 heures hebdomadaire (le volume horaire est fonction de la classe) sur 34 semaines de septembre à juin.
 
 ## Une équipe pédagogique
 

@@ -8,7 +8,7 @@
                 </div>
                 <div>
                     <p class="text-base leading-6 text-white text-justify">Les Petits Chanteurs à la Croix de Bois est
-                        une oeuvre
+                        une œuvre
                         centenaire fruit d’un savant mélange entre éducation, musique et annonce de l’Évangile. Ce
                         site
                         présente notre mission en France et dans le monde, depuis plus de 117 ans.</p>

@@ -50,7 +50,7 @@ h6 {
 
 .article h2 {
     font-family: 'Cinzel Decorative', Arial, sans-serif !important;
-    color: #c84136 !important;
+    color: var(--color-red-800) !important;
     font-weight: 500 !important;
     font-size: 20px !important;
     margin-bottom: 5px;
