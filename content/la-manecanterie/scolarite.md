@@ -98,7 +98,7 @@ Chaque semaine, les enfants suivent des cours de « **Savoir Vivre** » dans leq
 
 L’emploi du temps scolaire est aménagé afin que les élèves puissent mener une double compétence dans leur cursus : scolarité et pratique artistique.
 
-La semaine commence **le lundi à compter de 14h20** et se termine **le vendredi à 15h20. Cela permet de laisser le temps aux enfants de voyager sans rogner sur leur weekend car nous valorisons le temps de repos en famille le weekend.
+La semaine commence **le lundi à compter de 14h20** et se termine **le vendredi à 15h20**. Cela permet de laisser le temps aux enfants de voyager sans rogner sur leur weekend car nous valorisons le temps de repos en famille le weekend.
 
 Le temps scolaire est de 18 à 22 heures hebdomadaire (le volume horaire est fonction de la classe) sur 34 semaines de septembre à juin.
 

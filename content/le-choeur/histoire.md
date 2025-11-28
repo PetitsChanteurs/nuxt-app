@@ -135,7 +135,7 @@ image: photo_1.jpg
 L’œuvre continue
 
 #texte
-En pleine seconde guerre mondiale les Petits Chanteurs à la Croix de Bois continuent de chanter. Ils prendront même, en 1942, la direction de l’ Allemagne pour chanter dans les camps de prisonniers.
+En pleine seconde guerre mondiale les Petits Chanteurs à la Croix de Bois continuent de chanter. Ils prendront même, en 1942, la direction de l'Allemagne pour chanter dans les camps de prisonniers.
 
 :::
 
