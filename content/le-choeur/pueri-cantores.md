@@ -27,8 +27,9 @@ En mission depuis 1924
 #text
 En 1907, les "Petits Chanteurs à la Croix de Bois" de Paris furent l’un de ces nouveaux chœurs en lien avec le “Motu proprio” de 1903. Ce document du Pape Pie X encourageait la création de manécanteries. L’objectif n’était pas simplement de promouvoir le chant liturgique mais aussi de donner une éducation musicale et religieuse.
 
-En 1924 l’Abbé Fernand Maillet a pris la direction des “Petits Chanteurs”. En accord avec les souhaits du Pape, il est allé plus loin, voulant répandre à travers le monde cette idée d’enfants chanteurs afin de contribuer à établir un langage international par le chant. Par la suite, les Petits Chanteurs à la Croix de Bois ont voyagé dans de nombreux pays. Grâce à leurs concerts, ils ont encouragé la création de nouvelles formations de chœurs de garçons dans le monde.
+En 1924, l’abbé Fernand Maillet prend la direction des Petits Chanteurs à la Croix de Bois. Fidèle au souhait du pape Pie X de restaurer et de promouvoir la musique sacrée, il donne à l’œuvre une impulsion décisive. Constatant l’impact spirituel et culturel du chœur lors de ses nombreuses tournées, il souhaite étendre cette intuition à d’autres pays : faire du chant des enfants un langage universel au service de la paix.
 
+C’est ainsi qu’il encourage et accompagne la création de chœurs de garçons à travers le monde, ce qui conduira progressivement à la naissance du mouvement international des Pueri Cantores. Ce mouvement fédère aujourd’hui des milliers d’enfants chanteurs sur tous les continents, dans l’esprit initié par les Petits Chanteurs à la Croix de Bois : chanter Dieu, la paix et l’espérance au-delà des frontières.
 ::
 
 # Les grandes dates
@@ -62,7 +63,7 @@ C’est à l’Abbaye de Tamié en Savoie que tout a commencé. Deux étudiants 
 #titre
 Les Pueri Cantores
 #texte
-En 1924 l’Abbé Fernand Maillet a pris la direction des “Petits Chanteurs”. En accord avec les souhaits du Pape, il est allé plus loin, voulant répandre à travers le monde cette idée d’enfants chanteurs afin de contribuer à établir un langage international par le chant. Par la suite, les Petits Chanteurs à la Croix de Bois ont voyagé dans de nombreux pays. Grâce à leurs concerts, ils ont encouragé la création de nouvelles formations de chœurs de garçons dans le monde.
+En 1924, l’abbé Fernand Maillet prend la direction des PCCB et, dans l’élan donné par le pape Pie X , il porte l’œuvre bien au-delà des frontières. Au fil des tournées internationales, il encourage la création de chœurs similaires dans de nombreux pays. Cette dynamique conduit à la naissance du mouvement international des Pueri Cantores, qui fédère aujourd’hui des milliers d’enfants chanteurs appelés à transmettre, comme les PCCB, un message de paix et d’espérance par le chant.
 :::
 
 ::

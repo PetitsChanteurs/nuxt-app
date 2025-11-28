@@ -46,20 +46,20 @@ de cours par semaine
 ---
 lien: organisation-de-la-semaine
 ---
-La semaine →
+La classe →
 
 #titre
-9 niveaux
+Dédiée au PCCB
 
 #sous-titre
-de CM2 à Terminale
+de la 6ème à la 3ème
 :::
 
 :::Chiffre
 ---
 lien: une-équipe-pédagogique
 ---
-L’équipe pédagogique →
+Le niveau scolaire →
 
 #titre
 100%
@@ -107,6 +107,13 @@ Le temps scolaire est de 18 à 22 heures hebdomadaire (le volume horaire est fon
 Elle est composée d’une direction pédagogique garante du suivi des programmes de l’Éducation Nationale, d’un responsable scolaire privilégié pour chaque élève et d’enseignants qualifiés dans leur matière.
 
 L’équipe pédagogique assure la qualité de l’enseignement, la formation aux méthodes de travail et permet un suivi régulier et individualisé de chaque élève.
+
+## Travail personnel
+
+**L'étude** est un moment privilégié pour les Petits Chanteurs afin de consolider leurs apprentissages scolaires. Chaque soir, une heure d'aide aux devoirs est organisée sous la supervision des maîtres d'internat. Ce temps permet aux enfants de bénéficier d'un accompagnement personnalisé pour leurs révisions et leurs exercices, dans un environnement calme et studieux. 
+
+L'objectif est de garantir leur réussite scolaire malgré leur engagement artistique exigeant, en leur offrant les conditions optimales pour progresser dans leurs études.
+
 
 ::ButtonZone
 

@@ -92,9 +92,7 @@ Des cours de **technique vocale individuels** accompagnent également les garço
 
 ## Objectif
 
-A la fin de leurs cursus, nos garçons disposent de belles qualités musicales et humaines : ils savent lire la musique et sont parfaitement en mesure d’animer des répétitions auprès de tiers.
-
-De plus, les **nombreux voyages** sont l’occasion d’une ouverture constante à de nouvelles rencontres, à d’autres modes de vie. Le Petit Chanteur développe ainsi ses facultés d’adaptation, d’organisation et d’attention à l’autre ; autant d’atouts pour sa vie future : il acquiert une autonomie désormais fondée tant sur la rigueur que sur l’ouverture d’esprit et de cœur.
+A la fin de leurs cursus, nos garçons disposent de belles qualités musicales et humaines : ils savent lire la musique et sont parfaitement en mesure d’animer des répétitions.
 
 ::ButtonZone
 

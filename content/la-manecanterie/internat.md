@@ -59,13 +59,13 @@ le matin et le soir
 ---
 lien: travail
 ---
-Travail →
+Travail personnel →
 
 #titre
-1h d’aide au devoirs
+En un espace dédié
 
 #sous-titre
-par soir
+chaque soir
 :::
 
 ::
@@ -83,10 +83,6 @@ Chaque garçon y apprend l’autonomie et l’exerce chaque jour à travers tous
 ## Prière
 
 **La vie spirituelle** est au cœur du quotidien des Petits Chanteurs, et elle est une véritable priorité pour les éducateurs. Cette dimension n’est pas vécue par les garçons comme une contrainte, mais dans une véritable simplicité, incarnée dans le quotidien. À l’internat, un temps de prière est animé chaque jour par les enfants eux-mêmes.
-
-## Travail
-
-**L'étude** est un moment privilégié pour les Petits Chanteurs afin de consolider leurs apprentissages scolaires. Chaque soir, une heure d'aide aux devoirs est organisée sous la supervision des maîtres d'internat. Ce temps permet aux enfants de bénéficier d'un accompagnement personnalisé pour leurs révisions et leurs exercices, dans un environnement calme et studieux. L'objectif est de garantir leur réussite scolaire malgré leur engagement artistique exigeant, en leur offrant les conditions optimales pour progresser dans leurs études.
 
 ::ButtonZone
 

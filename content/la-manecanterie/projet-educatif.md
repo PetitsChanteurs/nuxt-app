@@ -36,10 +36,10 @@ lien: petit-chanteur-un-savoir-être
 Un savoir être →
 
 #titre
-34 semaines
+Grandir
 
 #sous-titre
-de cours à l’institution
+servir et rayonner
 :::
 
 :::Chiffre
@@ -82,7 +82,11 @@ L’emploi du temps scolaire est **aménagé** afin que les élèves puissent me
 
 ## Petit Chanteur : un savoir être
 
-Vivre en Petit Chanteur à la Croix de Bois c’est d’abord apprendre à affermir sa **foi en Dieu** pour tisser jour après jour avec Lui, une relation personnelle. Porter la Croix de Bois revêt en effet un sens bien particulier : le Petit Chanteur **témoigne de l’Evangile** et diffuse dans le monde son message de paix.
+Être Petit Chanteur à la Croix de Bois, c’est **apprendre à grandir** au sein d’une véritable vie de communauté, rythmée par l’internat, les répétitions et les tournées. Les garçons y développent un savoir-être fondé sur la camaraderie, le sens du service et la responsabilité.
+
+Vivre ensemble au quotidien apprend à chacun à **respecter l’autre**, à **s’entraider**, à **s’organiser** et à **tenir ses engagements**. Porter la Croix de Bois, c’est aussi nourrir une relation personnelle avec Dieu et témoigner, par son attitude comme par son chant, d’un message de paix, de joie et d’espérance.
+
+Dans cette vie fraternelle exigeante mais joyeuse, les garçons acquièrent des **repères solides**, une **grande autonomie** et **l’art de rayonner** à la fois par le chant et dans leur vie quotidienne.
 
 ## Petit Chanteur : un savoir-faire
 
@@ -93,6 +97,10 @@ Le chant est planifié au même titre que les autres matières et des leçons d�
 ## Un engagement de toute la famille
 
 Un de vos garçons entre chez les Petits Chanteurs à la Croix de Bois, et c’est **toute la famille qui vit l’aventure** ! L’investissement des parents aux côtés de l’équipe éducative dans le suivi du cursus de leur enfant est **primordial**.
+
+## Une ouverture au monde
+
+Les **nombreux voyages** sont l’occasion d’une ouverture constante à de nouvelles rencontres, à d’autres modes de vie. Le Petit Chanteur développe ainsi ses facultés d’adaptation, d’organisation et d’attention à l’autre ; autant d’atouts pour sa vie future : il acquiert une autonomie désormais fondée tant sur la rigueur que sur l’ouverture d’esprit et de cœur.
 
 ::ButtonZone
 
