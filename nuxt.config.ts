@@ -9,6 +9,15 @@ export default defineNuxtConfig({
     port: process.env.PORT || 3000, // Définit le port Scalingo
     host: '0.0.0.0', // Écoute sur toutes les interfaces réseau
   },
+  supabase: {
+    redirectOptions: {
+      login: '/se-connecter',
+      callback: '/confirm',
+      include: ['/espace-parents', '/espace-parents/**'],
+      exclude: [],
+      saveRedirectToCookie: false,
+    }
+  },
   content: {
     preview: {
       dev: true,
@@ -24,6 +33,7 @@ export default defineNuxtConfig({
     '@nuxt/content',
     '@nuxt/fonts',
     '@nuxt/image',
-    'nuxt-music-flow'
+    'nuxt-music-flow',
+    '@nuxtjs/supabase'
   ]
 })

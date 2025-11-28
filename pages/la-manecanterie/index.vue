@@ -21,15 +21,38 @@
 
                 <div class="absolute inset-0 size-full">
                     <div class="flex flex-col justify-top pt-30 items-center size-full">
-                        <NuxtLink to="/le-choeur/extraits"
-                            class="py-3 px-4 inline-flex items-center gap-x-2 text-sm font-medium rounded-full border border-gray-200 bg-white text-gray-800 shadow-2xs hover:bg-gray-50 focus:outline-hidden focus:bg-gray-50 disabled:opacity-50 disabled:pointer-events-none">
+                        <button @click="isModalOpen = true"
+                            class="py-3 px-7 inline-flex items-center gap-x-2 text-xl font-medium rounded-full border border-gray-200 bg-white text-gray-800 shadow-2xs hover:bg-gray-50 focus:outline-hidden focus:bg-gray-50 disabled:opacity-50 disabled:pointer-events-none">
                             <svg class="shrink-0 size-4" xmlns="http://www.w3.org/2000/svg" width="24" height="24"
                                 viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
                                 stroke-linecap="round" stroke-linejoin="round">
                                 <polygon points="5 3 19 12 5 21 5 3" />
                             </svg>
                             Voir le reportage
-                        </NuxtLink>
+                        </button>
+
+                        <!-- Modal Preline -->
+                        <div v-if="isModalOpen"
+                            class="fixed inset-0 z-50 flex items-center justify-center bg-black/70 backdrop-blur-sm transition-colors duration-200"
+                            @click.self="closeModal" @keydown.esc.window="closeModal" tabindex="0">
+                            <div class="relative bg-white rounded-xl shadow-lg max-w-2xl w-full p-0 animate-fade-in">
+                                <button @click="closeModal"
+                                    class="absolute top-2 right-2 z-20 text-gray-500 hover:text-gray-800 focus:outline-none bg-white/80 rounded-full p-1 transition"
+                                    style="backdrop-filter: blur(2px);">
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none"
+                                        viewBox="0 0 24 24" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                            d="M6 18L18 6M6 6l12 12" />
+                                    </svg>
+                                </button>
+                                <video controls autoplay class="rounded-b-xl w-full h-96 object-cover">
+                                    <source
+                                        src="https://normandie-pharma-pro.s3.eu-west-3.amazonaws.com/public/videos/video_current_np.mp4"
+                                        type="video/mp4">
+                                    Votre navigateur ne supporte pas la lecture vidéo.
+                                </video>
+                            </div>
+                        </div>
                     </div>
                 </div>
 
@@ -71,6 +94,13 @@
 </template>
 
 <script setup lang="ts">
+import { ref } from 'vue'
+
+const isModalOpen = ref(false)
+
+function closeModal() {
+    isModalOpen.value = false
+}
 // Liste des sous-rubriques de la manécanterie
 const maneItems = [
     {
